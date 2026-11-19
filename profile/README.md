@@ -123,4 +123,4 @@ Possíveis direções:
 
 # Autor
 
-Desenvolvido por [Ederson Melo](https://github.com/GloryUp)
+Desenvolvido por [Ederson Melo](https://github.com/edersonmelo)
